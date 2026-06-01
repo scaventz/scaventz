@@ -1,6 +1,6 @@
 Hi there 👋  
 
-I enjoy the github working flow. I'm contributing to:
+I enjoy the github working flow. Here are repos I contributed:
 
 | name                                          | pr count                                                                |
 |-----------------------------------------------|-------------------------------------------------------------------------|
